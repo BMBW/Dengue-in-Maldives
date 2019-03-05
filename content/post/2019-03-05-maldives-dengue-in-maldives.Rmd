@@ -22,3 +22,16 @@ Oscillation, Storm and Cyclone Formation.
 
 ![](/post/2019-03-05-maldives-dengue-in-maldives_files/Maldives with Longitudes Latitudes.png){width=50% height=60%}![](/post/2019-03-05-maldives-dengue-in-maldives_files/Maldives_1.png){width=50% height=60%}
 Figure 1 : Maldives Island
+
+First reported in 1979, dengue is now an endemic disease in Maldives with periodic
+outbreaks in rainy seasons. Dengue has a perennial occurrence and seasonal
+peaks from June to August each year. According
+to the Annual Communicable Diseases report (2012 and 2013), 681 cases
+were reported in 2013 and 1083 cases were reported in 2012, while a major outbreak
+was recorded in 2011 with 2909 cases being reported. Dengue was the fourth most
+commonly notified disease in 2011. The report also states that
+dengue cases increase in early January and between June-July in the wet season. In
+2012 most cases were reported from Male',Hulhumale',Alif Dhaal, Haa Dhaal and
+Meemu atolls. And in 2013 most cases were reported from Male',Hulhumale',Alif
+Dhaal, Noonu, Baa, Ali Alif, Alif Dhaal, Dhaal, Thaa, Gaafu Alif, Gaafu Dhaal
+and Seenu atolls.
