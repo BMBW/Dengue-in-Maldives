@@ -1,0 +1,24 @@
+---
+title: Maldives & Dengue in Maldives
+author: Banuka Wijerathne
+date: '2019-03-05'
+slug: maldives-dengue-in-maldives
+categories: []
+tags: []
+---
+
+Maldives is a tropical country composed of 26 geographic atolls, 7 provinces and
+nearly 1200 small coral islands. A population of about 330000 is dispersed over
+200 of these small islands, which extends to a length of 820 km and has a width
+of 120 km. All the islands are low lying with an elevation of about 3 m above
+the sea level. Maldives has an average year around rainfall between 1600-1900mm
+contributed by the south-west (May-August) and north-east (October- January) monsoons. Maldives has a hot and humid climate with a temperature between
+25°C-31°C and humidity between 70%-90%, throughout the year.
+
+The seasonality of Maldives climate is fascinating as it traverses a section across
+the equator and illuminates many mechanisms of climate such as the Trade Winds,
+the Monsoon System, El Nino phenomenon, Indian Ocean Dipole, the Madden Julian
+Oscillation, Storm and Cyclone Formation.
+
+![](/post/2019-03-05-maldives-dengue-in-maldives_files/Maldives with Longitudes Latitudes.png){width=50% height=60%}![](/post/2019-03-05-maldives-dengue-in-maldives_files/Maldives_1.png){width=50% height=60%}
+Figure 1 : Maldives Island
