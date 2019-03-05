@@ -37,3 +37,5 @@ stations of mosquito development. Temperature influences vector development
 rates, mortality, and behavior and controls viral replication within the mosquito.
 Variability in precipitation influences habitat availability for Ae. aegypti and Ae.
 albopictus larvae and pupae.
+
+![Figure 1 : Gonotropic Cycle and Climate](/post/2019-03-05-dengue_files/Gonotropic Cycle and Climate.png){width=80% height=100%}
