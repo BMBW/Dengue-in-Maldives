@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Dataset Used</title>
+      <link>/2019/03/05/dataset-used/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/05/dataset-used/</guid>
+      <description>In the study, dataset used mainly contains 4 variables. For the convenience of analyzing, these variables were organized into monthly values. Variable data were organized into the 7 provinces in Maldives, namely,
+Upper North ProvinceNorth PronvinceNorth Central ProvinceCentral ProvinceSouth Central ProvinceUpper South ProvinceSouth Provincethe 4 variables considered are
+Dengue Cases - Dengue cases were available from 1998-2016. Dengue cases collected were atoll wise and they had to be categorized into the 7 provinces.</description>
+    </item>
+    
+    <item>
       <title>Dengue</title>
       <link>/2019/03/05/dengue/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>

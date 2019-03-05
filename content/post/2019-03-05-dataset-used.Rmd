@@ -1,0 +1,49 @@
+---
+title: Dataset Used
+author: Banuka Wijerathne
+date: '2019-03-05'
+slug: dataset-used
+categories: []
+tags: []
+---
+
+In the study, dataset used mainly contains 4 variables. For the convenience of
+analyzing, these variables were organized into monthly values. Variable data were
+organized into the 7 provinces in Maldives, namely,
+
+1.  Upper North Province
+2.  North Pronvince
+3.  North Central Province
+4.  Central Province
+5.  South Central Province
+6.  Upper South Province
+7.  South Province 
+
+the 4 variables considered are
+
+1.  Dengue Cases - Dengue cases were available from 1998-2016. Dengue cases
+collected were atoll wise and they had to be categorized into the 7 provinces.
+
+2.  Minimum Tempearture (°C) - Minimum temperatures were available from
+2005-2016. Data of some of the provinces were daily data. They had to
+be aggregrated into monthly data.  
+
+3.  Maximum Temperature (°C) - Maximum temperatures were available from
+2005-2016. Data of some of the provinces were daily data. They had to be
+aggregrated into monthly data.
+
+4.  Rainfall (mm) - Rainfall from 2005-2016. Data of some of the provinces were
+daily data. They had to be aggregrated into monthly data. Total rainfall and
+sometimes average rainfall was considered according to necessity.
+
+Dengue cases were collected from the Health Department of Maldives and temperature
+& rainfall data were collected from the Meterological Department of Maldives.
+Except North and Central provinces, other provinces have weather stations. So,
+except North and Central provinces, other provinces' climate data (minimum &
+maximum temperature, rainfall) were available. Climate data of these 2 provinces
+had to be estimated. To estimate those values, Inverse DistanceWeighted Inter-
+polation Method was used by considering longitudes and latitudes
+of the provinces.
+
+Population of the provinces were also needed to calculate the dengue incidence.
+They were taken from the department of Census & Statistics of Maldives.
